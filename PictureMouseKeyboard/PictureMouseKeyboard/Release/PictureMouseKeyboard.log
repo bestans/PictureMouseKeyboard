@@ -1,0 +1,9 @@
+﻿  PMK.cpp
+PMK.cpp(150): warning C4018: '>': signed/unsigned mismatch
+PMK.cpp(472): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     Creating library D:\Github\PictureMouseKeyboard\PictureMouseKeyboard\Release\PMK.lib and object D:\Github\PictureMouseKeyboard\PictureMouseKeyboard\Release\PMK.exp
+  Generating code
+  All 30 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PictureMouseKeyboard.vcxproj -> D:\Github\PictureMouseKeyboard\PictureMouseKeyboard\Release\PMK.dll
+  PictureMouseKeyboard.vcxproj -> D:\Github\PictureMouseKeyboard\PictureMouseKeyboard\Release\PMK.pdb (Full PDB)
