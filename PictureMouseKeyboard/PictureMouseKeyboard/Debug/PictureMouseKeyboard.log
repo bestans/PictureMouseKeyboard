@@ -1,0 +1,6 @@
+﻿  PMK.cpp
+c:\users\daso\desktop\picturemousekeyboard\picturemousekeyboard\pmk.cpp(150): warning C4018: '>': signed/unsigned mismatch
+c:\users\daso\desktop\picturemousekeyboard\picturemousekeyboard\pmk.cpp(472): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     Creating library C:\Users\DaSo\Desktop\PictureMouseKeyboard\Debug\PictureMouseKeyboard.lib and object C:\Users\DaSo\Desktop\PictureMouseKeyboard\Debug\PictureMouseKeyboard.exp
+  PictureMouseKeyboard.vcxproj -> C:\Users\DaSo\Desktop\PictureMouseKeyboard\Debug\PictureMouseKeyboard.dll
+  PictureMouseKeyboard.vcxproj -> C:\Users\DaSo\Desktop\PictureMouseKeyboard\Debug\PictureMouseKeyboard.pdb (Full PDB)

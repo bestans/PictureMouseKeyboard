@@ -1,0 +1,30 @@
+//Public API
+
+ClickPic
+    从桌面或指定的窗口中找到参数中的图片并点击偏移后的点
+
+FindPic
+    从大图中搜索小图的位置，并返回大图中小图左上角的位置
+
+GetPic
+    获取桌面或指定窗口的截图
+
+KeyboardClick
+    模拟键盘击键
+
+MouseClick
+    模拟鼠标击键
+
+SavePic
+    保存桌面或指定窗口的截图
+
+//Private API
+
+Private_GetnError
+    根据误差范围的绝对值返回一个随机的误差
+
+Private_GetRGB
+    获取指定图指定位置的RGB值
+
+Private_GetnDownUp
+    根据参数返回WinUser.h中定义的鼠标消息
