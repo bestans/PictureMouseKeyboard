@@ -2,9 +2,9 @@
 PMK.cpp(150): warning C4018: '>': signed/unsigned mismatch
 PMK.cpp(371): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
 PMK.cpp(472): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-     Creating library C:\Users\DaSo\Desktop\PictureMouseKeyboard\x64\Release\PMK.lib and object C:\Users\DaSo\Desktop\PictureMouseKeyboard\x64\Release\PMK.exp
+     Creating library D:\Github\PictureMouseKeyboard\PictureMouseKeyboard\x64\Release\PMK_x64.lib and object D:\Github\PictureMouseKeyboard\PictureMouseKeyboard\x64\Release\PMK_x64.exp
   Generating code
   All 30 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
-  PictureMouseKeyboard.vcxproj -> C:\Users\DaSo\Desktop\PictureMouseKeyboard\x64\Release\PMK.dll
-  PictureMouseKeyboard.vcxproj -> C:\Users\DaSo\Desktop\PictureMouseKeyboard\x64\Release\PMK.pdb (Full PDB)
+  PictureMouseKeyboard.vcxproj -> D:\Github\PictureMouseKeyboard\PictureMouseKeyboard\x64\Release\PMK_x64.dll
+  PictureMouseKeyboard.vcxproj -> D:\Github\PictureMouseKeyboard\PictureMouseKeyboard\x64\Release\PMK_x64.pdb (Full PDB)
